@@ -22,7 +22,6 @@ Comandos:
 
 Formato del rut:
 - 11.222.333-0
-El digito verificador puede ser K o k, sin embargo se autoreemplazara por un 0.
 Si no sabes el digito, puedes reemplazarlo por un 0 igualmente.
 
 Ejemplo
