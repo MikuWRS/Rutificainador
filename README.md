@@ -1,5 +1,5 @@
 # Rutificainador
-Script en Python3 que permite buscar información en base a un RUT Chileno en la pagina https://www.nombrerutyfirma.com mas conocida como Rutificador
+Script en Python3 que permite buscar información en base a un RUT Chileno en la página https://www.nombrerutyfirma.com más conocida como Rutificador
 
 
 # Instalacion
