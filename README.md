@@ -2,7 +2,7 @@
 Script en Python3 que permite buscar información en base a un RUT Chileno en la página https://www.nombrerutyfirma.com más conocida como Rutificador
 
 
-# Instalacion
+# Instalación
 ```bash
 git clone https://github.com/MikuWRS/Rutificainador
 cd Rutificainador
